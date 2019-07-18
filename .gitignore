@@ -29,3 +29,5 @@ upload/
 vendor/
 
 tests/
+
+\.idea/
