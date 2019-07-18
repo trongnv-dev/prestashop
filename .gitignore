@@ -23,3 +23,9 @@ admin-dev/import/
 download/
 img/
 upload/
+
+\.DS_Store
+
+vendor/
+
+tests/
