@@ -31,3 +31,5 @@ vendor/
 tests/
 
 \.idea/
+
+public/
